@@ -1,3 +1,7 @@
+%**
+% *
+% * @author Sara Chahardoli
+% *
 %% Initialize
 %n = input('Please enter the prime value to check:\n') ;
 n = 113 ;
